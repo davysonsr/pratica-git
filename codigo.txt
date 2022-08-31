@@ -1,2 +1,3 @@
 Arquivo teste
 Nova linha
+Esta é uma nova alteração neste arquivo
